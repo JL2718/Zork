@@ -55,3 +55,4 @@ target/
 *.exe
 *.out
 *.app
+flake.lock
